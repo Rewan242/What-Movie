@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">What Movie?</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_series">Series</string>
+    <string name="title_netflixTOP">Top</string>
+    <string name="action_change">Change</string>
+    <string name="title_activity_movie_trailers">Movie Trailers</string>
+    <string name="title_activity_series_trailers">Series Trailers</string>
+    <string name="title_activity_netflix_top">"Netflix Top | "</string>
+    <string name="title_favorite">Favorites</string>
+    <string name="browse_image_description">Downloaded YouTube photo</string>
+    <string name="empty_photo">No movies there</string>
+    <string name="photo_title_text">Title: %s</string>
+    <string name="photo_tags_text">Tags: %s</string>
+    <string name="feed_menu1">Action and Adventure</string>
+    <string name="feed_menu2">Anime and Animation</string>
+    <string name="feed_menu3">Classics</string>
+    <string name="feed_menu4">Comedy</string>
+    <string name="feed_menu5">Documentary</string>
+    <string name="feed_menu6">Drama</string>
+    <string name="feed_menu7">Romance</string>
+    <string name="feed_menu8">Sci-Fi and Fantasy</string>
+    <string name="feed_menu9">Thrillers</string>
+</resources>

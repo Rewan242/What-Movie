@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.napps.napps.newtrailers.MainActivity">
+    <item
+        android:id="@+id/action_and_adventure"
+        android:orderInCategory="100"
+        android:title="@string/feed_menu1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/anime_and_animation"
+        android:icon="@android:drawable/ic_menu_search"
+        android:orderInCategory="101"
+        android:title="@string/feed_menu2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/classics"
+        android:orderInCategory="102"
+        android:title="@string/feed_menu3"
+        app:showAsAction="never" />
+    <item
+        android:title="@string/feed_menu4"
+        android:orderInCategory="103"
+        android:id="@+id/comedy"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/documentary"
+        android:orderInCategory="104"
+        android:title="@string/feed_menu5"
+        app:showAsAction="never" />
+    <item
+        android:title="@string/feed_menu6"
+        android:orderInCategory="105"
+        android:id="@+id/drama"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="never"/>
+    <item
+        android:title="@string/feed_menu7"
+        android:orderInCategory="107"
+        android:id="@+id/romance"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/fantasy"
+        android:orderInCategory="106"
+        android:title="@string/feed_menu8"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/thrillers"
+        android:orderInCategory="106"
+        android:title="@string/feed_menu9"
+        app:showAsAction="never"/>
+
+</menu>

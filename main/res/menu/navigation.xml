@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_movie"
+        android:icon="@drawable/movie"
+        android:title="@string/title_movie"
+        android:enabled="true"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/navigation_series"
+        android:icon="@drawable/tv"
+        android:title="@string/title_series"
+        android:enabled="true"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/favorite"
+        android:title="@string/title_favorite"
+        android:enabled="true"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/navigation_netflixTOP"
+        android:icon="@drawable/netflix"
+        android:title="@string/title_netflixTOP"
+        android:enabled="true"
+        app:showAsAction="ifRoom"/>
+
+</menu>
